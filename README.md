@@ -16,3 +16,14 @@ a spreadsheet (.csv), and input the information into a database (Microsoft SQL s
 
 ### PropertyTax
 Simple property tax program that utilizes a basic GUI for user input.
+
+### Final
+Takes user input, adds the numbers to an Array, writes them to a file, reads the file then
+outputs how many numbers are greater or lesser than 5.
+
+### ArrayProcessing
+Takes user input, adds the numbers to an array, outputs the highest, lowest,
+sum, and average.
+
+### FatGrams
+Accepts user input for fat and calorie content, then calculates the fat percent.
