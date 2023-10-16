@@ -13,3 +13,6 @@ an ArrayList that pass the test presented by the Predicate.
 These files demonstrate the creation of either a BoxFactory (edu.fscj.cop2800c.container package) 
 or PenguinRookery (edu.fscj.cop2800c.container penguins package), then read the information from 
 a spreadsheet (.csv), and input the information into a database (Microsoft SQL server).
+
+### PropertyTax
+Simple property tax program that utilizes a basic GUI for user input.
